@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Global styles for background and text */
+body {
+  background-color: #f7f7f7;
+  color: #333;
+}
+
+.react-icons {
+  vertical-align: middle;
+}
+
+@font-face {
+  font-family: 'Regular-3270';
+  src: url('./assets/fonts/vmware-terminal-font.ttf') format('truetype') !important;
+  font-weight: normal;
+  font-style: normal;
+}
