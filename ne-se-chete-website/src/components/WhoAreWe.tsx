@@ -20,6 +20,11 @@ const team = [
 		image: "src/assets/teamMembersPictures/valeri.png",
 	},
 	{
+		title: "Tomislav",
+		description: "Frontend/Backend",
+		image: "src/assets/teamMembersPictures/Tomi.jpg",
+	},
+	{
 		title: "Simeon",
 		description: "Frontend",
 		image: "src/assets/teamMembersPictures/Moni.jpg",
