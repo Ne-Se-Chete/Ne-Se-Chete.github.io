@@ -1,27 +1,27 @@
 const achievements = [
 	{
 		title: "TUES Fest 2024",
-		image: "src/assets/achievements/TUESFest.png",
+		image: "src/assets/achievements/TUESFest.jpg",
 		w: 0
 	},
 	{
 		title: "Robo Days 2024",
-		image: "src/assets/achievements/RoboDays.png",
+		image: "src/assets/achievements/RoboDays.jpg",
 		w: 0
 	},
 	{
 		title: "Бъдещи инженери на България 2024",
-		image: "src/assets/achievements/RobStratForum.jpg",
+		image: "src/assets/achievements/RobStratForum_sm.jpg",
 		w: 0
 	},
 	{
 		title: "HackTUES 2024",
-		image: "src/assets/achievements/HackTUES2.jpg",
+		image: "src/assets/achievements/HackTUES2_sm.jpg",
 		w: 1
 	},
 	{
 		title: "Para Robotics Incubator 2024",
-		image: "src/assets/achievements/PARAi.jpg",
+		image: "src/assets/achievements/PARAi_sm.jpg",
 		w: 1
 	},
 ];

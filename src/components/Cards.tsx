@@ -3,25 +3,25 @@ const projects = [
 		title: "AquaSense",
 		description:
 			"AquaSense is a project helping people find pollutions in the oceans and seas.",
-		image: "src/assets/projectPictures/AquaSense.png",
-		link: "https://github.com/Ne-Se-Chete/AquaSense-Hacktues2024    ",
+		image: "src/assets/projectPictures/AquaSense.jpg",
+		link: "https://github.com/Ne-Se-Chete/AquaSense-Hacktues2024",
 	},
 	{
 		title: "SmartFoosball",
 		description: "SmartFoosball tracks the score of a foosball game by detecting goals.",
-		image: "src/assets/projectPictures/SmartFoosball.png",
+		image: "src/assets/projectPictures/SmartFoosball.jpg",
 		link: "https://github.com/Ne-Se-Chete/SmartFoosball-AppolicaIntern",
 	},
 	{
 		title: "SmartBBQ",
 		description: "SmartBBQ is a project for detecting how much gas is left in a gas bottle of a BBQ.",
-		image: "src/assets/projectPictures/SmartBBQ.png",
+		image: "src/assets/projectPictures/SmartBBQ.jpg",
 		link: "https://github.com/Ne-Se-Chete/SmartBBQ-AppolicaIntern",
 	},
 	{
 		title: "Cable Undefined",
 		description: "Cable Undeinfed revolutionalizes the way embedded systems are wired and tracked. ",
-		image: "src/assets/projectPictures/CableUndefined.png",
+		image: "src/assets/projectPictures/CableUndefined.jpg",
 		link: "https://github.com/Ne-Se-Chete/CableUndefined-AppolicaIntern",
 	},
 ];

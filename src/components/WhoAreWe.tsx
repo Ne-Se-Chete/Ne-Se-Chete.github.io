@@ -2,22 +2,22 @@ const team = [
 	{
 		title: "Yasen",
 		description: "Embedded",
-		image: "src/assets/teamMembersPictures/Yasen.png",
+		image: "src/assets/teamMembersPictures/Yasen.jpg",
 	},
 	{
 		title: "Emil",
 		description: "Backend",
-		image: "src/assets/teamMembersPictures/Emo.png",
+		image: "src/assets/teamMembersPictures/Emo.jpg",
 	},
 	{
 		title: "Borislav",
 		description: "Backend and Frontend",
-		image: "src/assets/teamMembersPictures/Bobi.png",
+		image: "src/assets/teamMembersPictures/Bobi.jpg",
 	},
 	{
 		title: "Valeri",
 		description: "Frontend",
-		image: "src/assets/teamMembersPictures/valeri.png",
+		image: "src/assets/teamMembersPictures/Valeri.jpg",
 	},
 	{
 		title: "Tomislav",
