@@ -5,7 +5,7 @@ const Navbar = () => {
         <>
             {/* Navbar */}
             <nav className="fixed top-0 left-0 w-full bg-black p-4 z-50">
-                <ul className="flex justify-center space-x-4 md:space-x-10 text-base md:text-2xl text-orange-400">
+                <ul className="flex justify-center space-x-3 md:space-x-10 text-base md:text-2xl text-orange-400">
                     <li>
                         <Link
                             to="home"

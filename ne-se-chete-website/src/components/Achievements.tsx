@@ -38,7 +38,7 @@ const Achievements = () => {
 					{achievements.map((achievement, index) => (
 						<div
 							key={index}
-							className={`p-6 ${achievement.w === 1 ? "w-[420px]" : "w-[290px] md:w-[320px] h-[470px]"} flex flex-col justify-between md:hover:scale-105 md:transition-transform duration-300`}>
+							className={`p-6 ${achievement.w === 1 ? "max-w-[420px]" : "w-[290px] md:w-[320px] h-[470px]"} flex flex-col justify-between md:hover:scale-105 md:transition-transform duration-300`}>
 							<div>
 								<h3 className="text-2xl h-[64px] mb-2 font-[Press Start 2P]">
 									{achievement.title}
